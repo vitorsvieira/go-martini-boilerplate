@@ -1,7 +1,7 @@
 go-martini-boilerplate
 ===========================
 
-A boilerplate for Go Web Applications using Martini Framework
+A boilerplate for Go Web Applications using Martini Framework[http://martini.codegangsta.io/](http://martini.codegangsta.io/)
 
 
 - To be added
@@ -14,7 +14,8 @@ A boilerplate for Go Web Applications using Martini Framework
     - +More...
 
 - Dependencies used until now
-    - none
+    - [github.com/go-martini/martini](https://github.com/go-martini/martini)
+    - [github.com/martini-contrib/render](https://github.com/martini-contrib/render)
 
 
 ---
